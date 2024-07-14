@@ -1,3 +1,5 @@
+![alt text](assets/b.png)
+
 Authors of He et al. (2016) propose that residual layers with reference to the layer inputs are better at dealing with increased depth. 
 
 The general problem with the deeper networks is that, as they they start to converge, accuracy gets saturated and degrades rapidly. This problem can be addressed with residual learning where layers are explicitly allowed to fit a residual mapping.
